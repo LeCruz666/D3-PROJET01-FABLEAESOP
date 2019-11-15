@@ -1,0 +1,43 @@
+body {
+  background: #fac9c5;
+}
+
+h1 {
+  color: #045e66;
+}
+
+.moral {
+  border: 2px solid green;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+section{
+  min-height: 10vh;
+}
+
+#fable01 {
+  background: #b3f490;
+  padding: 25px;
+
+}
+
+#fable02 {
+  background: #89ce65;
+  padding: 25px;
+}
+
+#fable03 {
+  background: #66aa43;
+  padding: 25px;
+}
+
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari & Chrome */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}

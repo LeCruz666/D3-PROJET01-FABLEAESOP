@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao|Playfair+Display|Zhi+Mang+Xing&display=swap');
+
+h1 {
+  font-size: 2em;
+  font-family: 'Playfair';
+}
+p {
+  font-size: 1em;
+  font-family: 'Zhi Mang Xing';
+
+}
